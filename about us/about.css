@@ -1,0 +1,33 @@
+* {
+  margin: 0%;
+  text-decoration: none;
+}
+body {
+  background-color: #317773;
+}
+.container {
+  margin: auto;
+  width: 600px;
+}
+h1 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 40px;
+}
+a{
+    font-size: 18px;
+    color: rgb(3, 3, 104);
+}
+p {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+ol {
+  font-size: 20px;
+}
+li{
+    padding: 10px;
+}

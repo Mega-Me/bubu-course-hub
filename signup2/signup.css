@@ -1,0 +1,64 @@
+* {
+  margin: none;
+}
+body {
+  background-color: #317773;
+}
+.container {
+  margin: auto;
+  margin-top: 100px;
+  background-color: #fff;
+  width: 300px;
+  border-radius: 30px;
+}
+header {
+  padding-left: 100px;
+}
+#cont {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+#cont a {
+  padding-left: 60px;
+  font-size: 20px;
+  text-decoration: none;
+}
+#cont a h4 {
+  border: solid 1px;
+  width: 60px;
+  margin-top: -1px;
+}
+
+input[type="submit"] {
+  width: 80px;
+  margin-left: 100px;
+  border-radius: 10px;
+  font-size: 18px;
+  background-color: #1aa099;
+  margin-bottom: 20px;
+
+  
+}
+input{
+  width: 200px;
+  height: 30px;
+  margin-left: 40px;
+  border-radius: 10px;
+  padding-left: 10px;
+  border: solid 1px;
+  margin-bottom: 30px;
+
+}
+#line{
+  border: solid 1px;
+  
+  
+}
+.create{
+  font-weight: bolder;
+  display: flex;
+   justify-content: center;
+   padding-right: 10px;
+}
